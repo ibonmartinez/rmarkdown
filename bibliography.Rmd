@@ -1,0 +1,20 @@
+---
+title: "Ejemplos prácticos de markdown"
+author: "Ibon Martínez Arranz"
+date: "26 | September | 2014"
+output:
+  html_document:
+    fig_caption: yes
+    fig_height: 6
+    fig_width: 7
+    highlight: textmate
+    keep_md: yes
+    mathjax: default
+    number_sections: no
+    self_contained: no
+    theme: journal
+    toc: yes
+    toc_depth: 3
+---
+
+prueba
